@@ -1,4 +1,4 @@
-# dlnd-face-generation
+# Deep Learning Nanodegree @ Udacity
 Udacity Deep Learning Nanodegree - Project 4, face-generation
 
 
